@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning solana based token development
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me t1an@yandex.com
+- 📫 How to reach me t1an0309@yandex.com
 
 <!---
 t1an0309/t1an0309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
